@@ -1,0 +1,15 @@
+import pic from'./OIP.jpg'
+import pic1 from'./OIP.jpg'
+import pic2 from'./OIP.jpg'
+function Demo2(){
+
+    return(
+    <>
+    <h1 style={{textAlign:'center',color:'black',fontFamily:"fantasy"}}>Component1</h1>
+    <img src={pic}/>,
+    <img src={pic1}/>,
+    <img src={pic2}/>
+    
+</>);
+}
+export default Demo2

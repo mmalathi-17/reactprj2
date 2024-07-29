@@ -1,0 +1,17 @@
+import React from 'react'
+import {BrowserRouter,Routes,Route} from 'react-router-dom'
+export default function App() {
+
+      return(
+    <>
+    <h1>Main Page</h1>
+    <BrowserRouter>
+<Routes>
+  <Route path='/about' element={<h1>about us</h1>}></Route>
+   <Route path='/service' element={<h1>service us</h1>}></Route>
+   <Route path='/contact' element={<h1>contact us</h1>}></Route>
+</Routes>
+</BrowserRouter>
+    </>
+      )
+}

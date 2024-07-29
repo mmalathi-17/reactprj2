@@ -1,0 +1,43 @@
+[
+    {
+        "name":"malathi",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"naveen",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"vamsi",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"vandana",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"kasi",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"irfan",
+        "place":"rajasthan",
+        "age":23
+    },
+    
+    {
+        "name":"rakesh",
+        "place":"rajasthan",
+        "age":23
+    }
+]

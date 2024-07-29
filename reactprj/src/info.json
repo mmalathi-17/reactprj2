@@ -1,0 +1,24 @@
+[
+  {
+  "pic":"https://th.bing.com/th/id/OIP.er1Gr9IUMiCMtFeZdSHdAAHaE8?w=268&h=180&c=7&r=0&o=5&pid=1.7",
+  "city":"HYDERABAD"
+  },
+  
+    {
+      "pic":"https://www.bing.com/th/id/OIP.iIXdnqhQNMiLsTpzYHht_gHaFB?w=269&h=182&c=7&r=0&o=5&pid=1.7",
+      "city":"VIJAYAWADA"
+      },
+      {
+        "pic":"https://th.bing.com/th/id/OIP.U_d7SGc6DpL5gjZHbeo5CQHaE8?w=315&h=180&c=7&r=0&o=5&pid=1.7",
+        "city":"KERALA"
+        },
+        {
+          "pic":"https://th.bing.com/th/id/OIP.x-h9r7AehG12OoEh1JknmgHaEo?w=297&h=185&c=7&r=0&o=5&pid=1.7",
+          "city":"MALDIVES"
+          },
+          {
+            "pic":"https://facts.net/wp-content/uploads/2021/09/Sahara-Desert-Image-by-Adobe-Stock--435x257.jpg",
+            "city":"RAJASTHAN"
+            }
+
+]

@@ -1,0 +1,31 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+let style={}
+let message
+      let day=new Date()
+      let  hr=day.getHours()
+let min=day.getMinutes()
+let sec=day.getSeconds()
+
+if(hr<=12){
+message="good morning"
+style.color='green'
+}else if(hr>12-5){
+    message="good afternoon"
+    style.color='yellow'
+}else if(hr>5){
+    message="good eveing"
+    style.color='orange'
+}
+const root=ReactDOM.createRoot(document.getElementById('root'))
+root.render(
+<>
+
+<h1>{hr}-{min}-{sec}</h1>
+<h2 style={style}>{message}</h2>
+
+ </>
+)
+
+
+
